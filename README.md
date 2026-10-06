@@ -1,1 +1,1 @@
-# devsentinel1-debug.github.io
+This repository hosts app-ads.txt for the Sentinel app.
